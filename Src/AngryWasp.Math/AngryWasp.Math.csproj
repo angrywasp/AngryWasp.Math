@@ -3,12 +3,8 @@
   <Import Project="../../External/AngryWasp.Build/AngryWasp.Build.Pack.targets"/>
   <PropertyGroup>
     <PackageId>AngryWasp.Math</PackageId>
-    <PackageDescription>Randon cryptographic helper classes</PackageDescription>
+    <PackageDescription>Collection of useful math structures</PackageDescription>
     <RepositoryUrl>https://github.com/angrywasp/AngryWasp.Math</RepositoryUrl>
     <Author>Angry Wasp</Author>
   </PropertyGroup>
-  <ItemGroup>
-    <PackageReference Include="Portable.BouncyCastle" Version="1.9.0"/>
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.2"/>
-  </ItemGroup>
 </Project>
