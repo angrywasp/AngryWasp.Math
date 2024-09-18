@@ -1,5 +1,3 @@
-using System;
-
 namespace AngryWasp.Math.Test
 {
     internal class MainClass
